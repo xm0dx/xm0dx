@@ -3,7 +3,7 @@
 
 `Aspiring Cybersecurity Expert, DevOps, Software & Hardware Developer`
 
-##### Beginning of my coding journey what I am burning for!!
+##### Kicking Off My Coding Journey: Fueled by Passion!
   I’ve come to realize that I genuinely enjoy creating and building tools, especially applications that automate tasks. In today's world, such tools are essential for advancing technology and simplifying everyday processes. For instance, when searching for information online, it often takes sifting through numerous websites to find the right answer. But imagine having an automated engine that quickly suggests concise answers and directs you to the relevant sources. Or even having a system that offers smart recommendations for your daily plans, so you don't have to spend time overthinking the small details. This kind of automation can make life simpler and more efficient.
 
 </details>
@@ -14,20 +14,20 @@
 
 | Project | Description |
 | --- | --- |
-| Minecraft server | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| MC-server using docker | used an old computer to run a game server |
+| MC-server using k8s | used k8s cluster kind server to run game server |
+| Self learning bots | coded input and output text based bots |
+| Bots running it self | runs bots in the cloud server |
 
 </details>
 
 ##### Coding progession
 - [x] Running minecraft server using docker
-- [x] Running minecraft server using K8s
+- [x] Running minecraft server using kubernetes cluster kind
 - [x] Running self-learning bots
-- [X] Self running bots
+- [X] Running self-running bots
+- [X] Running code in network / cloud server
+
 
 ---
 
