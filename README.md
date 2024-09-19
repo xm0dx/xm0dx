@@ -1,8 +1,36 @@
 
-<h1>Hi 👋, I'm Mick </h1>
-<p>A passionate frontend developer from Sweden </p>
+<h1>Hello World! 👋, I'm Mick </h1>
+
+`Aspiring Cybersecurity Expert, DevOps, Software & Hardware Developer`
+
+##### Beginning of my coding journey what I am burning for!!
+  I’ve come to realize that I genuinely enjoy creating and building tools, especially applications that automate tasks. In today's world, such tools are essential for advancing technology and simplifying everyday processes. For instance, when searching for information online, it often takes sifting through numerous websites to find the right answer. But imagine having an automated engine that quickly suggests concise answers and directs you to the relevant sources. Or even having a system that offers smart recommendations for your daily plans, so you don't have to spend time overthinking the small details. This kind of automation can make life simpler and more efficient.
+
+</details>
+
+<details>
+
+<summary>project that I've been working on: </summary>
+
+| Project | Description |
+| --- | --- |
+| Minecraft server | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+</details>
+
+##### Coding progession
+- [x] Running minecraft server using docker
+- [x] Running minecraft server using K8s
+- [x] Running self-learning bots
+- [X] Self running bots
 
 ---
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -17,15 +45,8 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
----
+#
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/x_m0dx" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/m0dx" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/x_m0dx" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@mickdragonyt" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-
----
 <br clear="both">
 
 <picture>
@@ -42,3 +63,12 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+#
+
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/x_m0dx" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/m0dx" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/x_m0dx" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://www.youtube.com/@mickdragonyt" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
