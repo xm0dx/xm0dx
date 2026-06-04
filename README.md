@@ -25,23 +25,23 @@ $ whoami
 > Right now I run a single-box home lab — ~18 containerized
 > services behind one reverse proxy, on a private mesh network,
 > with my own auth gate, monitoring, and automated backups.
-> I love building tools that automate the boring parts.
+> I build tools that automate the boring parts.
 ```
 
 ---
 
-### 🧱 Featured project — `homelab`
+### Featured project — `homelab`
 
 > A self-hosted platform: **~18 Docker services** orchestrated with Docker Compose on a single host, reachable only over a private **Tailscale (WireGuard) mesh** — nothing exposed to the public internet.
 
 | Area | What I built |
 |------|--------------|
-| 🚪 **Single front door** | An **nginx** reverse proxy serving the dashboard + an embedded web terminal on **one origin** — WebSocket upgrades, same-origin iframes, valid HTTPS certs. |
-| 🔐 **Custom auth gate** | A from-scratch **Python** auth service (stdlib only) guarding the dashboard via nginx `auth_request`: HMAC-signed session cookies, peppered password hashing, **brute-force IP banning**, and a **live visitor/IP tracker**. |
-| 📊 **Observability** | Real-time host metrics (CPU / temp / RAM / disk / NVMe) on the dashboard, full system monitor, live container logs, and an **uptime monitor + public status page** with alerting. |
-| 🗄️ **Apps & data** | Private cloud + office suite, password manager, notes, a self-hosted **Git** server, all on a shared **Postgres 16** backend. |
-| ⚙️ **Ops & reliability** | **systemd** units for boot reconciliation, scheduled **backups** with an offsite **storage push**, and an external dead-man's-switch healthcheck. |
-| 🧰 **Self-service dev** | A sandbox to deploy my own Python/Flask apps, plus homemade microservices (a finance planner API, a website health checker). |
+| **Single front door** | An **nginx** reverse proxy serving the dashboard + an embedded web terminal on **one origin** — WebSocket upgrades, same-origin iframes, valid HTTPS certs. |
+| **Custom auth gate** | A from-scratch **Python** auth service (stdlib only) guarding the dashboard via nginx `auth_request`: HMAC-signed session cookies, peppered password hashing, **brute-force IP banning**, and a **live visitor/IP tracker**. |
+| **Observability** | Real-time host metrics (CPU / temp / RAM / disk / NVMe) on the dashboard, full system monitor, live container logs, and an **uptime monitor + public status page** with alerting. |
+| **Apps & data** | Private cloud + office suite, password manager, notes, a self-hosted **Git** server, all on a shared **Postgres 16** backend. |
+| **Ops & reliability** | **systemd** units for boot reconciliation, scheduled **backups** with an offsite **storage push**, and an external dead-man's-switch healthcheck. |
+| **Self-service dev** | A sandbox to deploy my own Python/Flask apps, plus homemade microservices (a finance planner API, a website health checker). |
 
 **Stack**
 
@@ -58,17 +58,17 @@ $ whoami
 
 ---
 
-### 📦 More things I've built
+### More things I've built
 
 | Project | What it is |
 |---------|-----------|
-| 🎮 **Minecraft server on Docker** | Turned an old machine into a containerized game server. |
-| ☸️ **Minecraft server on Kubernetes** | Ran the same server on a `kind` Kubernetes cluster — hands-on with orchestration. |
-| 🤖 **Self-learning bots** | Text-based input/output bots, then deployed to run themselves in the cloud. |
+| **Minecraft server on Docker** | Turned an old machine into a containerized game server. |
+| **Minecraft server on Kubernetes** | Ran the same server on a `kind` Kubernetes cluster — hands-on with orchestration. |
+| **Self-learning bots** | Text-based input/output bots, then deployed to run themselves in the cloud. |
 
 ---
 
-### 🛠️ What I work with
+### What I work with
 
 ```text
 Containers     Docker · Docker Compose · Kubernetes (kind) · orchestration
