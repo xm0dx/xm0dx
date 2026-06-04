@@ -58,13 +58,23 @@ $ whoami
 
 ---
 
-### More things I've built
+### Projects
 
-| Project | What it is |
-|---------|-----------|
-| **Minecraft server on Docker** | Turned an old machine into a containerized game server. |
-| **Minecraft server on Kubernetes** | Ran the same server on a `kind` Kubernetes cluster — hands-on with orchestration. |
-| **Self-learning bots** | Text-based input/output bots, then deployed to run themselves in the cloud. |
+<div align="center">
+
+<a href="https://github.com/xm0dx/minecraft-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=minecraft-server&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="minecraft-server" />
+</a>
+<a href="https://github.com/xm0dx/RBLX-mechanic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=RBLX-mechanic&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="RBLX-mechanic" />
+</a>
+
+</div>
+
+- **[minecraft-server](https://github.com/xm0dx/minecraft-server)** — a Minecraft game server deployed on a Kubernetes (`kind`) cluster. Started on Docker, then moved to k8s to get hands-on with orchestration.
+- **[RBLX-mechanic](https://github.com/xm0dx/RBLX-mechanic)** — a Roblox game mechanic built in Lua.
+- **homelab** *(featured above)* — my self-hosted infrastructure platform (~18 Docker services, custom auth, monitoring, backups).
+- **Discord bot** *(private)* — an automation/chat bot, plus self-learning text-I/O experiments that later ran themselves in the cloud.
 
 ---
 
