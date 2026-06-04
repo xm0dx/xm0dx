@@ -78,24 +78,3 @@ Cloud / Linux  GCP · Ubuntu · systemd · cron/timers · backups · shell scrip
 Security       least-privilege · session auth · brute-force defense · zero public exposure
 Web            nginx · HTML/CSS/JS dashboards · same-origin design
 ```
-
----
-
-### 📈 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xm0dx&show_icons=true&hide_border=false&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm0dx&layout=compact&hide_border=false&bg_color=0f1620&title_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-📫 **Reach me** — [mick.aphisit@gmail.com](mailto:mick.aphisit@gmail.com)
-
-<sub><i>Built on a light-blue terminal theme · #0f1620 / #5BC0EB · always learning by building.</i></sub>
-
-</div>
