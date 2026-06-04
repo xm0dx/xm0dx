@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=5BC0EB&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Mick+%C2%B7+%40xm0dx;Aspiring+Cybersecurity+%2F+DevOps+Engineer;I+self-host+my+own+cloud%2C+one+container+at+a+time." alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=5BC0EB&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Mick+%C2%B7+%40xm0dx;Apps+Developer;I+self-host+my+own+cloud%2C+one+container+at+a+time." alt="typing banner" />
 
 <br/>
 
-![Focus](https://img.shields.io/badge/focus-cybersecurity_&_DevOps-0f1620?style=flat-square&logo=linux&logoColor=5BC0EB)
+![Focus](https://img.shields.io/badge/focus-apps_&_DevOps-0f1620?style=flat-square&logo=linux&logoColor=5BC0EB)
 ![Infra](https://img.shields.io/badge/infra-self--hosted-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB)
 ![Networking](https://img.shields.io/badge/networking-zero--trust-0f1620?style=flat-square&logo=tailscale&logoColor=5BC0EB)
 ![Style](https://img.shields.io/badge/style-everything--as--code-0f1620?style=flat-square&logo=gnubash&logoColor=5BC0EB)
@@ -20,7 +20,7 @@
 
 ```text
 $ whoami
-> Mick (@xm0dx) — aspiring Cybersecurity / DevOps engineer.
+> Mick (@xm0dx) — apps developer.
 > Self-taught and hands-on: I learn by building real systems.
 > Right now I run a single-box home lab — ~18 containerized
 > services behind one reverse proxy, on a private mesh network,
@@ -60,32 +60,14 @@ $ whoami
 
 ### Projects
 
-<div align="center">
-
-<a href="https://github.com/xm0dx/homelab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=homelab&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="homelab" />
-</a>
-<a href="https://github.com/xm0dx/finance-planner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=finance-planner&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="finance-planner" />
-</a>
-<a href="https://github.com/xm0dx/web-health-check">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=web-health-check&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="web-health-check" />
-</a>
-<a href="https://github.com/xm0dx/minecraft-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=minecraft-server&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="minecraft-server" />
-</a>
-<a href="https://github.com/xm0dx/RBLX-mechanic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=RBLX-mechanic&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="RBLX-mechanic" />
-</a>
-
-</div>
-
-- **[homelab](https://github.com/xm0dx/homelab)** — self-hosted infrastructure platform: ~18 Docker services behind one reverse proxy on a private Tailscale mesh, with a custom auth gate, monitoring, and automated backups.
-- **[finance-planner](https://github.com/xm0dx/finance-planner)** — a personal finance planner: single-page web app with a small Python persistence API.
-- **[web-health-check](https://github.com/xm0dx/web-health-check)** — a server-side website health checker (Python microservice behind nginx).
-- **[minecraft-server](https://github.com/xm0dx/minecraft-server)** — a Minecraft server deployed on a Kubernetes (`kind`) cluster. Started on Docker, then moved to k8s to get hands-on with orchestration.
-- **[RBLX-mechanic](https://github.com/xm0dx/RBLX-mechanic)** — a Roblox game mechanic built in Lua.
-- **Discord bot** *(private)* — an automation/chat bot, plus self-learning text-I/O experiments that later ran themselves in the cloud.
+| Project | Stack | What it is |
+|---------|-------|------------|
+| **[homelab](https://github.com/xm0dx/homelab)** | ![Docker](https://img.shields.io/badge/Docker-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB) ![nginx](https://img.shields.io/badge/nginx-0f1620?style=flat-square&logo=nginx&logoColor=5BC0EB) ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) | Self-hosted infrastructure: ~18 Docker services behind one reverse proxy on a private Tailscale mesh — custom auth gate, monitoring, automated backups. |
+| **[finance-planner](https://github.com/xm0dx/finance-planner)** | ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) ![JavaScript](https://img.shields.io/badge/JS-0f1620?style=flat-square&logo=javascript&logoColor=5BC0EB) | Personal finance planner — single-page web app with a small Python persistence API. |
+| **[web-health-check](https://github.com/xm0dx/web-health-check)** | ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) ![nginx](https://img.shields.io/badge/nginx-0f1620?style=flat-square&logo=nginx&logoColor=5BC0EB) | Server-side website health checker with SSRF protection. |
+| **[minecraft-server](https://github.com/xm0dx/minecraft-server)** | ![Kubernetes](https://img.shields.io/badge/k8s-0f1620?style=flat-square&logo=kubernetes&logoColor=5BC0EB) ![Docker](https://img.shields.io/badge/Docker-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB) | Minecraft server on a Kubernetes (`kind`) cluster — started on Docker, moved to k8s for orchestration. |
+| **[RBLX-mechanic](https://github.com/xm0dx/RBLX-mechanic)** | ![Lua](https://img.shields.io/badge/Lua-0f1620?style=flat-square&logo=lua&logoColor=5BC0EB) | A Roblox game mechanic built in Lua. |
+| **Discord bot** *(private)* | ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) | Automation/chat bot + self-learning text-I/O experiments run in the cloud. |
 
 ---
 
