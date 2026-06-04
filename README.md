@@ -1,73 +1,101 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  xm0dx · GitHub profile README                                 ║ -->
+<!-- ║  Theme: Claude terminal — bg #1a1815 · accent #d97757         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<h1>Hello World! 👋, I'm Mick </h1>
+<div align="center">
 
-`Aspiring Cybersecurity Expert, DevOps, Software & Hardware Developer`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=D97757&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Mick+%C2%B7+%40xm0dx;Aspiring+Cybersecurity+%2F+DevOps+Engineer;I+self-host+my+own+cloud%2C+one+container+at+a+time." alt="typing banner" />
 
-##### Kicking Off My Coding Journey: Fueled by Passion!
-  I’ve come to realize that I genuinely enjoy creating and building tools, especially applications that automate tasks. In today's world, such tools are essential for advancing technology and simplifying everyday processes. For instance, when searching for information online, it often takes sifting through numerous websites to find the right answer. But imagine having an automated engine that quickly suggests concise answers and directs you to the relevant sources. Or even having a system that offers smart recommendations for your daily plans, so you don't have to spend time overthinking the small details. This kind of automation can make life simpler and more efficient.
+<br/>
 
-</details>
+![Focus](https://img.shields.io/badge/focus-cybersecurity_&_DevOps-1a1815?style=flat-square&logo=linux&logoColor=D97757)
+![Infra](https://img.shields.io/badge/infra-self--hosted-1a1815?style=flat-square&logo=docker&logoColor=D97757)
+![Networking](https://img.shields.io/badge/networking-zero--trust-1a1815?style=flat-square&logo=tailscale&logoColor=D97757)
+![Style](https://img.shields.io/badge/style-everything--as--code-1a1815?style=flat-square&logo=gnubash&logoColor=D97757)
 
-<details>
-
-<summary>project that I've been working on: </summary>
-
-| Project | Description |
-| --- | --- |
-| MC-server using docker | used an old computer to run a game server |
-| MC-server using k8s | used k8s cluster kind server to run game server |
-| Self learning bots | coded input and output text based bots |
-| Bots running it self | runs bots in the cloud server |
-
-</details>
-
-##### Coding progession
-- [x] Running minecraft server using docker
-- [x] Running minecraft server using kubernetes cluster kind
-- [x] Running self-learning bots
-- [X] Running self-running bots
-- [X] Running code in network / cloud server
-
+</div>
 
 ---
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+```text
+$ whoami
+> Mick (@xm0dx) — aspiring Cybersecurity / DevOps engineer.
+> Self-taught and hands-on: I learn by building real systems.
+> Right now I run a single-box home lab — ~18 containerized
+> services behind one reverse proxy, on a private mesh network,
+> with my own auth gate, monitoring, and automated backups.
+> I love building tools that automate the boring parts.
+```
 
-#
+---
 
-<br clear="both">
+### 🧱 Featured project — `homelab`
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+> A self-hosted platform: **~18 Docker services** orchestrated with Docker Compose on a single host, reachable only over a private **Tailscale (WireGuard) mesh** — nothing exposed to the public internet.
 
-#
+| Area | What I built |
+|------|--------------|
+| 🚪 **Single front door** | An **nginx** reverse proxy serving the dashboard + an embedded web terminal on **one origin** — WebSocket upgrades, same-origin iframes, valid HTTPS certs. |
+| 🔐 **Custom auth gate** | A from-scratch **Python** auth service (stdlib only) guarding the dashboard via nginx `auth_request`: HMAC-signed session cookies, peppered password hashing, **brute-force IP banning**, and a **live visitor/IP tracker**. |
+| 📊 **Observability** | Real-time host metrics (CPU / temp / RAM / disk / NVMe) on the dashboard, full system monitor, live container logs, and an **uptime monitor + public status page** with alerting. |
+| 🗄️ **Apps & data** | Private cloud + office suite, password manager, notes, a self-hosted **Git** server, all on a shared **Postgres 16** backend. |
+| ⚙️ **Ops & reliability** | **systemd** units for boot reconciliation, scheduled **backups** with an offsite **storage push**, and an external dead-man's-switch healthcheck. |
+| 🧰 **Self-service dev** | A sandbox to deploy my own Python/Flask apps, plus homemade microservices (a finance planner API, a website health checker). |
 
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/x_m0dx" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/m0dx" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/x_m0dx" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/@mickdragonyt" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+**Stack**
 
+![Docker](https://img.shields.io/badge/Docker-1a1815?style=flat-square&logo=docker&logoColor=D97757)
+![Compose](https://img.shields.io/badge/Compose-1a1815?style=flat-square&logo=docker&logoColor=D97757)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1815?style=flat-square&logo=kubernetes&logoColor=D97757)
+![nginx](https://img.shields.io/badge/nginx-1a1815?style=flat-square&logo=nginx&logoColor=D97757)
+![Python](https://img.shields.io/badge/Python-1a1815?style=flat-square&logo=python&logoColor=D97757)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1815?style=flat-square&logo=postgresql&logoColor=D97757)
+![Linux](https://img.shields.io/badge/Linux-1a1815?style=flat-square&logo=linux&logoColor=D97757)
+![Bash](https://img.shields.io/badge/Bash-1a1815?style=flat-square&logo=gnubash&logoColor=D97757)
+![systemd](https://img.shields.io/badge/systemd-1a1815?style=flat-square&logo=systemd&logoColor=D97757)
+![Tailscale](https://img.shields.io/badge/Tailscale-1a1815?style=flat-square&logo=tailscale&logoColor=D97757)
+
+---
+
+### 📦 More things I've built
+
+| Project | What it is |
+|---------|-----------|
+| 🎮 **Minecraft server on Docker** | Turned an old machine into a containerized game server. |
+| ☸️ **Minecraft server on Kubernetes** | Ran the same server on a `kind` Kubernetes cluster — hands-on with orchestration. |
+| 🤖 **Self-learning bots** | Text-based input/output bots, then deployed to run themselves in the cloud. |
+
+---
+
+### 🛠️ What I work with
+
+```text
+Containers     Docker · Docker Compose · Kubernetes (kind) · orchestration
+Networking     Tailscale / WireGuard · reverse proxy · TLS · WebSockets
+Backend        Python (stdlib HTTP, HMAC auth) · REST · Postgres
+Cloud / Linux  GCP · Ubuntu · systemd · cron/timers · backups · shell scripting
+Security       least-privilege · session auth · brute-force defense · zero public exposure
+Web            nginx · HTML/CSS/JS dashboards · same-origin design
+```
+
+---
+
+### 📈 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xm0dx&show_icons=true&hide_border=false&bg_color=1a1815&title_color=d97757&icon_color=d97757&text_color=e8e3d8&border_color=3a3530" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm0dx&layout=compact&hide_border=false&bg_color=1a1815&title_color=d97757&text_color=e8e3d8&border_color=3a3530" alt="top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+📫 **Reach me** — [mick.aphisit@gmail.com](mailto:mick.aphisit@gmail.com)
+
+<sub><i>Built on the Claude-terminal theme · #1a1815 / #d97757 · always learning by building.</i></sub>
+
+</div>
