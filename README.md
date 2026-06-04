@@ -1,18 +1,18 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  xm0dx · GitHub profile README                                 ║ -->
-<!-- ║  Theme: Claude terminal — bg #1a1815 · accent #d97757         ║ -->
+<!-- ║  Theme: light-blue terminal — bg #0f1620 · accent #5BC0EB     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=D97757&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Mick+%C2%B7+%40xm0dx;Aspiring+Cybersecurity+%2F+DevOps+Engineer;I+self-host+my+own+cloud%2C+one+container+at+a+time." alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=5BC0EB&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Mick+%C2%B7+%40xm0dx;Aspiring+Cybersecurity+%2F+DevOps+Engineer;I+self-host+my+own+cloud%2C+one+container+at+a+time." alt="typing banner" />
 
 <br/>
 
-![Focus](https://img.shields.io/badge/focus-cybersecurity_&_DevOps-1a1815?style=flat-square&logo=linux&logoColor=D97757)
-![Infra](https://img.shields.io/badge/infra-self--hosted-1a1815?style=flat-square&logo=docker&logoColor=D97757)
-![Networking](https://img.shields.io/badge/networking-zero--trust-1a1815?style=flat-square&logo=tailscale&logoColor=D97757)
-![Style](https://img.shields.io/badge/style-everything--as--code-1a1815?style=flat-square&logo=gnubash&logoColor=D97757)
+![Focus](https://img.shields.io/badge/focus-cybersecurity_&_DevOps-0f1620?style=flat-square&logo=linux&logoColor=5BC0EB)
+![Infra](https://img.shields.io/badge/infra-self--hosted-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB)
+![Networking](https://img.shields.io/badge/networking-zero--trust-0f1620?style=flat-square&logo=tailscale&logoColor=5BC0EB)
+![Style](https://img.shields.io/badge/style-everything--as--code-0f1620?style=flat-square&logo=gnubash&logoColor=5BC0EB)
 
 </div>
 
@@ -45,16 +45,16 @@ $ whoami
 
 **Stack**
 
-![Docker](https://img.shields.io/badge/Docker-1a1815?style=flat-square&logo=docker&logoColor=D97757)
-![Compose](https://img.shields.io/badge/Compose-1a1815?style=flat-square&logo=docker&logoColor=D97757)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1815?style=flat-square&logo=kubernetes&logoColor=D97757)
-![nginx](https://img.shields.io/badge/nginx-1a1815?style=flat-square&logo=nginx&logoColor=D97757)
-![Python](https://img.shields.io/badge/Python-1a1815?style=flat-square&logo=python&logoColor=D97757)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1815?style=flat-square&logo=postgresql&logoColor=D97757)
-![Linux](https://img.shields.io/badge/Linux-1a1815?style=flat-square&logo=linux&logoColor=D97757)
-![Bash](https://img.shields.io/badge/Bash-1a1815?style=flat-square&logo=gnubash&logoColor=D97757)
-![systemd](https://img.shields.io/badge/systemd-1a1815?style=flat-square&logo=systemd&logoColor=D97757)
-![Tailscale](https://img.shields.io/badge/Tailscale-1a1815?style=flat-square&logo=tailscale&logoColor=D97757)
+![Docker](https://img.shields.io/badge/Docker-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB)
+![Compose](https://img.shields.io/badge/Compose-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0f1620?style=flat-square&logo=kubernetes&logoColor=5BC0EB)
+![nginx](https://img.shields.io/badge/nginx-0f1620?style=flat-square&logo=nginx&logoColor=5BC0EB)
+![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1620?style=flat-square&logo=postgresql&logoColor=5BC0EB)
+![Linux](https://img.shields.io/badge/Linux-0f1620?style=flat-square&logo=linux&logoColor=5BC0EB)
+![Bash](https://img.shields.io/badge/Bash-0f1620?style=flat-square&logo=gnubash&logoColor=5BC0EB)
+![systemd](https://img.shields.io/badge/systemd-0f1620?style=flat-square&logo=systemd&logoColor=5BC0EB)
+![Tailscale](https://img.shields.io/badge/Tailscale-0f1620?style=flat-square&logo=tailscale&logoColor=5BC0EB)
 
 ---
 
@@ -85,8 +85,8 @@ Web            nginx · HTML/CSS/JS dashboards · same-origin design
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xm0dx&show_icons=true&hide_border=false&bg_color=1a1815&title_color=d97757&icon_color=d97757&text_color=e8e3d8&border_color=3a3530" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm0dx&layout=compact&hide_border=false&bg_color=1a1815&title_color=d97757&text_color=e8e3d8&border_color=3a3530" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xm0dx&show_icons=true&hide_border=false&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm0dx&layout=compact&hide_border=false&bg_color=0f1620&title_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="top languages" />
 
 </div>
 
@@ -96,6 +96,6 @@ Web            nginx · HTML/CSS/JS dashboards · same-origin design
 
 📫 **Reach me** — [mick.aphisit@gmail.com](mailto:mick.aphisit@gmail.com)
 
-<sub><i>Built on the Claude-terminal theme · #1a1815 / #d97757 · always learning by building.</i></sub>
+<sub><i>Built on a light-blue terminal theme · #0f1620 / #5BC0EB · always learning by building.</i></sub>
 
 </div>
