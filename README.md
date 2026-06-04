@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=5BC0EB&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Mick+%C2%B7+%40xm0dx;Apps+Developer;I+self-host+my+own+cloud%2C+one+container+at+a+time." alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=5BC0EB&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Mick+%C2%B7+%40xm0dx;Administration;Builder+%26+self-hoster+in+my+own+time." alt="typing banner" />
 
 <br/>
 
-![Focus](https://img.shields.io/badge/focus-apps_&_DevOps-0f1620?style=flat-square&logo=linux&logoColor=5BC0EB)
+![Role](https://img.shields.io/badge/current_role-administration-0f1620?style=flat-square&logo=googleforms&logoColor=5BC0EB)
 ![Infra](https://img.shields.io/badge/infra-self--hosted-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB)
 ![Networking](https://img.shields.io/badge/networking-zero--trust-0f1620?style=flat-square&logo=tailscale&logoColor=5BC0EB)
 ![Style](https://img.shields.io/badge/style-everything--as--code-0f1620?style=flat-square&logo=gnubash&logoColor=5BC0EB)
@@ -20,7 +20,8 @@
 
 ```text
 $ whoami
-> Mick (@xm0dx) — apps developer.
+> Mick (@xm0dx) — I work in administration, and build apps
+> and self-host my own cloud in my own time.
 > Self-taught and hands-on: I learn by building real systems.
 > Right now I run a single-box home lab — ~18 containerized
 > services behind one reverse proxy, on a private mesh network,
