@@ -30,7 +30,7 @@ $ whoami
 
 ---
 
-### Featured project — `homelab`
+### Featured project — [`homelab`](https://github.com/xm0dx/homelab)
 
 > A self-hosted platform: **~18 Docker services** orchestrated with Docker Compose on a single host, reachable only over a private **Tailscale (WireGuard) mesh** — nothing exposed to the public internet.
 
@@ -62,6 +62,15 @@ $ whoami
 
 <div align="center">
 
+<a href="https://github.com/xm0dx/homelab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=homelab&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="homelab" />
+</a>
+<a href="https://github.com/xm0dx/finance-planner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=finance-planner&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="finance-planner" />
+</a>
+<a href="https://github.com/xm0dx/web-health-check">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=web-health-check&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="web-health-check" />
+</a>
 <a href="https://github.com/xm0dx/minecraft-server">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=xm0dx&repo=minecraft-server&bg_color=0f1620&title_color=5bc0eb&icon_color=5bc0eb&text_color=d6e9f7&border_color=25394d" alt="minecraft-server" />
 </a>
@@ -71,9 +80,11 @@ $ whoami
 
 </div>
 
-- **[minecraft-server](https://github.com/xm0dx/minecraft-server)** — a Minecraft game server deployed on a Kubernetes (`kind`) cluster. Started on Docker, then moved to k8s to get hands-on with orchestration.
+- **[homelab](https://github.com/xm0dx/homelab)** — self-hosted infrastructure platform: ~18 Docker services behind one reverse proxy on a private Tailscale mesh, with a custom auth gate, monitoring, and automated backups.
+- **[finance-planner](https://github.com/xm0dx/finance-planner)** — a personal finance planner: single-page web app with a small Python persistence API.
+- **[web-health-check](https://github.com/xm0dx/web-health-check)** — a server-side website health checker (Python microservice behind nginx).
+- **[minecraft-server](https://github.com/xm0dx/minecraft-server)** — a Minecraft server deployed on a Kubernetes (`kind`) cluster. Started on Docker, then moved to k8s to get hands-on with orchestration.
 - **[RBLX-mechanic](https://github.com/xm0dx/RBLX-mechanic)** — a Roblox game mechanic built in Lua.
-- **homelab** *(featured above)* — my self-hosted infrastructure platform (~18 Docker services, custom auth, monitoring, backups).
 - **Discord bot** *(private)* — an automation/chat bot, plus self-learning text-I/O experiments that later ran themselves in the cloud.
 
 ---
