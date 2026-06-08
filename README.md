@@ -43,6 +43,8 @@ $ whoami
 | **Apps & data** | Private cloud + office suite, password manager, notes, a self-hosted **Git** server, all on a shared **Postgres 16** backend. |
 | **Ops & reliability** | **systemd** units for boot reconciliation, scheduled **backups** with an offsite **storage push**, and an external dead-man's-switch healthcheck. |
 | **Self-service dev** | A sandbox to deploy my own Python/Flask apps, plus homemade microservices (a finance planner API, a website health checker). |
+| **Investing dashboard** | A self-hosted **investing learning tool**: a live market-quote proxy, portfolio & **allocation tracking** (funds / stocks / cash drag), a **savings-rate → goal projection**, discipline streaks, and a **grounded daily market digest** — every figure pulled from real quotes, never model guesses. |
+| **Market assistant** | A **Discord assistant** wired to the same data: live price lookups, big-move **push alerts**, a recurring market + news **pulse**, and a grounded daily briefing — an **LLM kept honest** by real data, not hallucinations. |
 
 **Stack**
 
@@ -68,7 +70,7 @@ $ whoami
 | **[web-health-check](https://github.com/xm0dx/web-health-check)** | ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) ![nginx](https://img.shields.io/badge/nginx-0f1620?style=flat-square&logo=nginx&logoColor=5BC0EB) | Server-side website health checker with SSRF protection. |
 | **[minecraft-server](https://github.com/xm0dx/minecraft-server)** | ![Kubernetes](https://img.shields.io/badge/k8s-0f1620?style=flat-square&logo=kubernetes&logoColor=5BC0EB) ![Docker](https://img.shields.io/badge/Docker-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB) | Minecraft server on a Kubernetes (`kind`) cluster — started on Docker, moved to k8s for orchestration. |
 | **[RBLX-mechanic](https://github.com/xm0dx/RBLX-mechanic)** | ![Lua](https://img.shields.io/badge/Lua-0f1620?style=flat-square&logo=lua&logoColor=5BC0EB) | A Roblox game mechanic built in Lua. |
-| **Discord bot** *(private)* | ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) | Automation/chat bot + self-learning text-I/O experiments run in the cloud. |
+| **Discord assistant** *(private)* | ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) | A personal assistant + automation bot: live market data, scheduled push alerts and briefings, and chat — an LLM grounded in real data. |
 
 ---
 
@@ -80,5 +82,6 @@ Networking     Tailscale / WireGuard · reverse proxy · TLS · WebSockets
 Backend        Python (stdlib HTTP, HMAC auth) · REST · Postgres
 Cloud / Linux  GCP · Ubuntu · systemd · cron/timers · backups · shell scripting
 Security       least-privilege · session auth · brute-force defense · zero public exposure
+Automation     scheduled jobs · Discord assistant · LLM integration (grounded, no hallucinated data)
 Web            nginx · HTML/CSS/JS dashboards · same-origin design
 ```
