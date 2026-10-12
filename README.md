@@ -12,6 +12,7 @@
 ![Studying](https://img.shields.io/badge/studying-C%23_%2F_.NET_at_ITHS-0f1620?style=flat-square&logo=dotnet&logoColor=5BC0EB)
 ![Desktop](https://img.shields.io/badge/desktop_apps-Avalonia_%2B_MVVM-0f1620?style=flat-square&logo=windowsterminal&logoColor=5BC0EB)
 ![Infra](https://img.shields.io/badge/infra-self--hosted-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB)
+![Edge](https://img.shields.io/badge/edge-Cloudflare_Pages_%2B_Workers-0f1620?style=flat-square&logo=cloudflare&logoColor=5BC0EB)
 ![Networking](https://img.shields.io/badge/networking-zero--trust-0f1620?style=flat-square&logo=tailscale&logoColor=5BC0EB)
 ![Style](https://img.shields.io/badge/style-everything--as--code-0f1620?style=flat-square&logo=gnubash&logoColor=5BC0EB)
 
@@ -26,6 +27,8 @@ $ whoami
 > Self-taught before that and still hands-on: I learn by building real things.
 > In class: console apps, object-oriented C#, JSON persistence and now
 > desktop apps with Avalonia and MVVM.
+> At work I built and run an inventory web app on Cloudflare Pages and
+> Workers KV that colleagues use every day.
 > In my own time: a single-box home lab, ~18 containerized services behind
 > one reverse proxy on a private mesh network, with my own auth gate,
 > monitoring and automated backups.
@@ -42,6 +45,24 @@ $ whoami
 | **Files and JSON** | `StreamReader`/`StreamWriter`, `System.Text.Json`, a generic repository that reads and writes any model to disk. |
 | **Desktop apps** | **RunStore**, an Avalonia app built with MVVM: page navigation through a ViewLocator, `ObservableCollection` lists bound to views, commands with CommunityToolkit.Mvvm, styles, icon fonts and svg assets. |
 | **Git and GitHub** | Feature branches, pull requests, issues and a clean commit history as a daily habit. |
+
+---
+
+### Cloudflare: web apps on the edge
+
+| Project | What it does |
+|---------|--------------|
+| **Warehouse inventory app** *(private, in daily use at work)* | A single-page app on **Cloudflare Pages** with **Workers KV** as the data store: search across a catalogue of about 20 000 items, barcode scanning in the browser (ZXing compiled to WebAssembly, any angle), printable Code128 labels, a PDF sorter that reads barcodes off scanned documents with majority voting, supplier lookups, Excel import and export. Login-gated API, XSS-safe rendering, nightly full KV backups and a restore script, versioned releases with git tags. |
+| **Personal sites** | CV and portfolio pages on Cloudflare Pages, deployed from the terminal with wrangler. |
+
+**Stack**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-0f1620?style=flat-square&logo=cloudflare&logoColor=5BC0EB)
+![Workers](https://img.shields.io/badge/Workers_KV-0f1620?style=flat-square&logo=cloudflare&logoColor=5BC0EB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f1620?style=flat-square&logo=javascript&logoColor=5BC0EB)
+![HTML](https://img.shields.io/badge/HTML_%2F_CSS-0f1620?style=flat-square&logo=html5&logoColor=5BC0EB)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-0f1620?style=flat-square&logo=webassembly&logoColor=5BC0EB)
+![wrangler](https://img.shields.io/badge/wrangler-0f1620?style=flat-square&logo=cloudflare&logoColor=5BC0EB)
 
 ---
 
@@ -92,6 +113,7 @@ $ whoami
 | **[web-health-check](https://github.com/xm0dx/web-health-check)** | ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) ![nginx](https://img.shields.io/badge/nginx-0f1620?style=flat-square&logo=nginx&logoColor=5BC0EB) | Server-side website health checker with SSRF protection. |
 | **[minecraft-server](https://github.com/xm0dx/minecraft-server)** | ![Kubernetes](https://img.shields.io/badge/k8s-0f1620?style=flat-square&logo=kubernetes&logoColor=5BC0EB) ![Docker](https://img.shields.io/badge/Docker-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB) | Minecraft server on a Kubernetes (`kind`) cluster. Started on Docker, moved to k8s for orchestration. |
 | **[RBLX-mechanic](https://github.com/xm0dx/RBLX-mechanic)** | ![Lua](https://img.shields.io/badge/Lua-0f1620?style=flat-square&logo=lua&logoColor=5BC0EB) | A Roblox game mechanic built in Lua. |
+| **Warehouse inventory app** *(private)* | ![Cloudflare](https://img.shields.io/badge/Cloudflare-0f1620?style=flat-square&logo=cloudflare&logoColor=5BC0EB) ![JavaScript](https://img.shields.io/badge/JS-0f1620?style=flat-square&logo=javascript&logoColor=5BC0EB) | Inventory and search tool on Cloudflare Pages with Workers KV: barcode scanning, labels, PDF sorting, imports and exports. Used daily by colleagues. |
 | **Discord assistant** *(private)* | ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) | A personal assistant and automation bot: live market data, scheduled push alerts and briefings, and chat grounded in real data. |
 
 ---
@@ -104,9 +126,10 @@ Desktop        Avalonia UI · MVVM · CommunityToolkit.Mvvm · XAML
 Containers     Docker · Docker Compose · Kubernetes (kind) · orchestration
 Networking     Tailscale / WireGuard · reverse proxy · TLS · WebSockets
 Backend        Python (stdlib HTTP, HMAC auth) · REST · Postgres · System.Text.Json
-Cloud / Linux  GCP · Ubuntu · systemd · cron/timers · backups · shell scripting
+Cloud / Edge   Cloudflare Pages · Workers KV · wrangler · GCP
+Linux          Ubuntu · systemd · cron/timers · backups · shell scripting
 Security       least-privilege · session auth · brute-force defense · zero public exposure
 Automation     scheduled jobs · Discord assistant · LLM integration grounded in real data
 Tools          Git / GitHub · VS Code · dotnet CLI · JetBrains Rider
-Web            nginx · HTML/CSS/JS dashboards · same-origin design
+Web            nginx · HTML/CSS/JS single-page apps · WebAssembly in the browser · same-origin design
 ```
