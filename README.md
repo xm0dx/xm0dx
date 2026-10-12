@@ -37,7 +37,7 @@ $ whoami
 
 | Step | What I have built with it |
 |------|---------------------------|
-| **C# fundamentals** | Console apps with methods, loops, `TryParse` input handling, `List<T>` and `Dictionary<K,V>`. |
+| **C# fundamentals** | Console apps with methods, loops, `TryParse` input handling, `List<T>` and `Dictionary<K,V>`. **CastTheDice** was the first one. |
 | **Object-oriented C#** | Classes, properties, inheritance with `virtual`/`override`, abstract classes, interfaces and generics (`Storage<T>`). A console bank, **WestcoastBank**, as the running exercise. |
 | **Files and JSON** | `StreamReader`/`StreamWriter`, `System.Text.Json`, a generic repository that reads and writes any model to disk. |
 | **Desktop apps** | **RunStore**, an Avalonia app built with MVVM: page navigation through a ViewLocator, `ObservableCollection` lists bound to views, commands with CommunityToolkit.Mvvm, styles, icon fonts and svg assets. |
@@ -83,8 +83,9 @@ $ whoami
 
 | Project | Stack | What it is |
 |---------|-------|------------|
-| **RunStore** *(private, school project)* | ![C#](https://img.shields.io/badge/C%23-0f1620?style=flat-square&logo=dotnet&logoColor=5BC0EB) ![Avalonia](https://img.shields.io/badge/Avalonia-0f1620?style=flat-square&logo=windowsterminal&logoColor=5BC0EB) | Desktop store app built with MVVM: navigation via ViewLocator, product and customer lists from JSON through a generic `Storage<T>`, commands, styles and icon fonts. |
+| **[RunStore](https://github.com/xm0dx/RunStore)** | ![C#](https://img.shields.io/badge/C%23-0f1620?style=flat-square&logo=dotnet&logoColor=5BC0EB) ![Avalonia](https://img.shields.io/badge/Avalonia-0f1620?style=flat-square&logo=windowsterminal&logoColor=5BC0EB) | Desktop store app built with MVVM: navigation via ViewLocator, product and customer lists from JSON through a generic `Storage<T>`, commands, styles and icon fonts. |
 | **[WestcoastBank](https://github.com/xm0dx/WestcoastBank)** | ![C#](https://img.shields.io/badge/C%23-0f1620?style=flat-square&logo=dotnet&logoColor=5BC0EB) | Console banking exercise: accounts, deposits and withdrawals with classes, properties and inheritance. |
+| **[CastTheDice](https://github.com/xm0dx/CastTheDice)** | ![C#](https://img.shields.io/badge/C%23-0f1620?style=flat-square&logo=dotnet&logoColor=5BC0EB) | Console dice game, my first C# program: two dice, win on a sum of 12, play-again loop, coloured output. |
 | **[git-ovningar](https://github.com/xm0dx/git-ovningar)** | ![Git](https://img.shields.io/badge/Git-0f1620?style=flat-square&logo=git&logoColor=5BC0EB) ![Shell](https://img.shields.io/badge/Shell-0f1620?style=flat-square&logo=gnubash&logoColor=5BC0EB) | Git practice repo in Swedish: one branch and pull request per note, a command cheat sheet and a glossary of programming terms. |
 | **[homelab](https://github.com/xm0dx/homelab)** | ![Docker](https://img.shields.io/badge/Docker-0f1620?style=flat-square&logo=docker&logoColor=5BC0EB) ![nginx](https://img.shields.io/badge/nginx-0f1620?style=flat-square&logo=nginx&logoColor=5BC0EB) ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) | Self-hosted infrastructure: ~18 Docker services behind one reverse proxy on a private Tailscale mesh, with a custom auth gate, monitoring and automated backups. |
 | **[finance-planner](https://github.com/xm0dx/finance-planner)** | ![Python](https://img.shields.io/badge/Python-0f1620?style=flat-square&logo=python&logoColor=5BC0EB) ![JavaScript](https://img.shields.io/badge/JS-0f1620?style=flat-square&logo=javascript&logoColor=5BC0EB) | Personal finance planner: single-page web app with a small Python persistence API. |
